@@ -1,2 +1,2 @@
 # CodeStepByStep_DB
-coding step by step exercises and implementations
+My coding step by step implementations from programming exercises.
